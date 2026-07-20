@@ -7,7 +7,7 @@
 
 > A stunning, modern personal portfolio website built with pure HTML, CSS, and JavaScript.
 
-🌐 **Live Site:** [tarunkumar499.github.io/portfolio](https://tarunkumar499.github.io/portfolio)
+🌐 **Live Site:** [tarunkumar499.github.io/portfolio](https://tarunkumar499.github.io/My-portfolio)
 
 ---
 
